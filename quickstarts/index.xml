@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quickstarts on Teiid</title>
+    <link>https://teiid.io/quickstarts/</link>
+    <description>Recent content in Quickstarts on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 May 2017 14:40:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://teiid.io/quickstarts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Access Data Service</title>
+      <link>https://teiid.io/quickstarts/integration/access-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/quickstarts/integration/access-data-service/</guid>
+      <description>Quickstarts &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; [Integration Quickstart &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Setup &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Define a Data Service &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Access Data Service
+ Open new browser with the copied OData route URL  execute example OData queries and see results     *** This page is a work in progress... Check back later! ***  </description>
+    </item>
+    
+    <item>
+      <title>Access Data Service</title>
+      <link>https://teiid.io/quickstarts/virtualization/access-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/quickstarts/virtualization/access-data-service/</guid>
+      <description> Quickstarts &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtualization Quickstart &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Setup &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Define a Data Service &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Access Data Service
+Pre-Requisites  Define a Data Service  Access the US States data service  Video demonstrating testing the virtualization  </description>
+    </item>
+    
+    <item>
+      <title>Define a Data Service</title>
+      <link>https://teiid.io/quickstarts/integration/define-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/quickstarts/integration/define-data-service/</guid>
+      <description>Quickstarts &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Integration Quickstart &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Setup &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Define a Data Service &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Access Data Service
+ Open Beetle Studio  connect to MySQL database create a view joining some of your data test your data publish your data service copy the URL provided for the OData route.     *** This page is a work in progress... Check back later! ***  </description>
+    </item>
+    
+    <item>
+      <title>Define a Data Service</title>
+      <link>https://teiid.io/quickstarts/virtualization/define-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/quickstarts/virtualization/define-data-service/</guid>
+      <description> Quickstarts &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtualization Quickstart &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Setup &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Define a Data Service &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Access Data Service
+Pre-Requisites  Setup  Define a Data Service Uses beetle-studio to:
+ Create a connection to the Openshift US-States database service; Create a virtualization using the connection adding filters if required; Publish the virtualization to Openshift.   Video creating a new virtualization  </description>
+    </item>
+    
+    <item>
+      <title>Integration Quickstart</title>
+      <link>https://teiid.io/quickstarts/integration/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/quickstarts/integration/</guid>
+      <description>Quickstarts &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Integration Quickstart &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Setup &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Define a Data Service &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Access Data Service
+This &amp;ldquo;Teiid in the Cloud&amp;rdquo; quickstart will lead you through integration of a data service
+ *** This page is a work in progress... Check back later! ***  </description>
+    </item>
+    
+    <item>
+      <title>Setup for Integration Quickstart</title>
+      <link>https://teiid.io/quickstarts/integration/setup/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/quickstarts/integration/setup/</guid>
+      <description> Quickstarts &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Integration Quickstart &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Setup &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Define a Data Service &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Access Data Service
+Setup  *** This page is a work in progress... Check back later! ***  </description>
+    </item>
+    
+    <item>
+      <title>Setup for Teiid Cloud Quickstart</title>
+      <link>https://teiid.io/quickstarts/virtualization/setup/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/quickstarts/virtualization/setup/</guid>
+      <description>Quickstarts &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtualization Quickstart &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Setup &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Define a Data Service &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Access Data Service
+Setup Minishift A Minishift installation which is available for all the major operating systems (Linux, OS X and Windows).
+ Video installing minishift  Database Service This provides a data service in Openshift which can be virtualized. The database is populated with basic tables containing USA district, city and state information.</description>
+    </item>
+    
+    <item>
+      <title>Virtualization Quickstart</title>
+      <link>https://teiid.io/quickstarts/virtualization/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/quickstarts/virtualization/</guid>
+      <description>Quickstarts &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtualization Quickstart &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Setup &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Define a Data Service &amp;nbsp;&amp;nbsp; &amp;gt; &amp;nbsp;&amp;nbsp; Access Data Service
+This &amp;ldquo;Teiid in the Cloud&amp;rdquo; quickstart demonstrates the virtualization of a data service
+Goal: A database instance exposed as OData.
+ Setup  Install minishift Configure minishift with the following services  PostgresSQL DB data service Beetle Studio / Teiid Runtime / Wildfly server       Define a Data Service  Create a connection to the DB data service Create a virtualization of the connection Publish the virtualization      Access the Data Service  Execute example OData queries and see results     </description>
+    </item>
+    
+  </channel>
+</rss>

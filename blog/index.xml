@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Teiid</title>
+    <link>https://teiid.io/blog/</link>
+    <description>Recent content in Blog on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 30 May 2018 12:55:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://teiid.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teiid new project site launch</title>
+      <link>https://teiid.io/blog/post-05-30-18/</link>
+      <pubDate>Wed, 30 May 2018 12:55:00 -0500</pubDate>
+      
+      <guid>https://teiid.io/blog/post-05-30-18/</guid>
+      <description>&lt;h5 id=&#34;teiid-s-community-website-has-been-redesigned-and-now-available-here-at-https-teiid-io-https-teiid-io&#34;&gt;Teiid&amp;rsquo;s community website has been redesigned and now available here, at &lt;a href=&#34;https://teiid.io&#34;&gt;https://teiid.io&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Since we&amp;rsquo;ve been working on cloud focused data virtualization features, we decided to take the opportunity to move and streamlined our site content and build process to &lt;a href=&#34;https://github.com/teiid/teiid.io&#34;&gt;https://github.com/teiid/teiid.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 10.2.2 Released</title>
+      <link>https://teiid.io/blog/post-05-23-18/</link>
+      <pubDate>Wed, 23 May 2018 16:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-05-23-18/</guid>
+      <description>&lt;h5 id=&#34;teiid-10-2-2-is-now-available-for-download-teiid-four-ways-teiid-wildfly-downloads-and-includes-several-bug-fixes&#34;&gt;Teiid 10.2.2 is now available for &lt;a href=&#34;teiid_four_ways/teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes several bug fixes.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
